@@ -41,9 +41,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2261DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2261DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,6 +71,17 @@
 - Developed using **MERN Stack** (MongoDB, Express, React, Node.js).
 - Features job posting, application tracking, and secure **JWT-based** authentication.
 - Includes resume upload functionality and a responsive dashboard for employers/seekers.
+
+### 👗 [Myntra Clone](https://github.com/nikhil6393/Myntra-clone-project)
+*E-commerce UI/UX Replication.*
+- A high-fidelity clone of the Myntra landing page and product listing.
+- Built with focus on **Responsive Design** and smooth transitions.
+- Utilizes modern CSS techniques for a premium look and feel.
+
+### 📝 [FireForm](https://github.com/nikhil6393/FireForm)
+*Dynamic Form Builder & Management.*
+- Experimental project for creating and managing dynamic forms.
+- Integrated with backend services for data persistence and validation.
 
 ---
 
