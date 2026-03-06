@@ -107,11 +107,12 @@
 
 ## 📊 GitHub Stats
 
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=nikhil6393&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nikhil6393&theme=tokyonight&hide_border=false)
-
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil6393&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil6393&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=nikhil6393&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
