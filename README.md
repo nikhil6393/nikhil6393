@@ -78,10 +78,6 @@
 - Built with focus on **Responsive Design** and smooth transitions.
 - Utilizes modern CSS techniques for a premium look and feel.
 
-### 📝 [FireForm](https://github.com/nikhil6393/FireForm)
-*Dynamic Form Builder & Management.*
-- Experimental project for creating and managing dynamic forms.
-- Integrated with backend services for data persistence and validation.
 
 ---
 
