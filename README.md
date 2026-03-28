@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:6366f1&height=220&section=header&text=Nikhil%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20MERN%20Stack%20Developer%20%E2%9C%A6%20B.Tech%20CSE&descAlignY=58&descAlign=50&descSize=18&descColor=cbd5e1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:6366f1&height=220&section=header&text=Nikhil%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20B.Tech%20CSE&descAlignY=58&descAlign=50&descSize=18&descColor=cbd5e1" />
 
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Apps+%E2%9A%A1;UI%2FUX+Designer+%E2%9C%A8;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineer+%E2%9A%99%EF%B8%8F;Building+Scalable+Apps+%E2%9A%A1;UI%2FUX+Designer+%E2%9C%A8;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,9 +24,9 @@
 
 </div>
 
-> 💻 *"Driven MERN Stack Developer with hands-on experience in building complete web applications from scratch. Passionate about efficient system architecture and seamless user experiences."*
+> 💻 *"Driven Full Stack Developer with hands-on experience in building complete web applications from scratch. Passionate about efficient system architecture and seamless user experiences."*
 
-🎓 **B.Tech in CSE & IT** (2024-2028) &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **MERN Stack Developer**
+🎓 **B.Tech in CSE & IT** (2024-2028) &nbsp;|&nbsp; 💻 **Full-Stack Developer**
 
 ---
 
@@ -89,7 +89,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20Expert-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-3b82f6?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/HP-AI%20for%20Beginners-0096D6?style=flat-square&logo=hp&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Developer%20Solutions-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/JPMorgan-Software%20Engineering-black?style=flat-square&logo=jpmorganchase&logoColor=white" />
