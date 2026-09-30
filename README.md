@@ -62,6 +62,12 @@
 
 </div>
 
+### 🚀 [ApplyPilot](https://github.com/nikhil6393/applypilot)
+*Advanced Job Application Assistant.*
+- Streamlines and automates the job application workflow.
+- Focuses on efficiency and providing a seamless user experience.
+- Built using modern web technologies to maximize productivity.
+
 ### 🚀 [SafeSurf](https://github.com/nikhil6393/SAFESURF-A-Deterministic-Framework-for-Real-Time-Phishing-Detection-in-Web-Browsers)
 *A Deterministic Framework for Real-Time Phishing Detection.*
 - Utilizes a **Quad-Layer Defense** system to identify phishing websites in real-time.
@@ -73,12 +79,6 @@
 - Developed using **MERN Stack** (MongoDB, Express, React, Node.js).
 - Features job posting, application tracking, and secure **JWT-based** authentication.
 - Includes resume upload functionality and a responsive dashboard for employers/seekers.
-
-### 👗 [Myntra Clone](https://github.com/nikhil6393/Myntra-clone-project)
-*E-commerce UI/UX Replication.*
-- A high-fidelity clone of the Myntra landing page and product listing.
-- Built with focus on **Responsive Design** and smooth transitions.
-- Utilizes modern CSS techniques for a premium look and feel.
 
 ---
 
@@ -125,25 +125,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil6393/nikhil6393/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil6393/nikhil6393/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nikhil6393/nikhil6393/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
-<img src="https://raw.githubusercontent.com/nikhil6393/nikhil6393/output/ocean.gif" width="100%" alt="Snake Animation" />
-
 </div>
 
 ---
